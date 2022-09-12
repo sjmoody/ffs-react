@@ -6,7 +6,6 @@ import Card from 'react-bootstrap/Card';
 import Button from 'react-bootstrap/Button';
 import Stack from 'react-bootstrap/Stack';
 import Container from 'react-bootstrap/Container';
-import Row from 'react-bootstrap/Row';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faHeart } from '@fortawesome/free-solid-svg-icons'
 
